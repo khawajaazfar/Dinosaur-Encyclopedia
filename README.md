@@ -26,6 +26,8 @@ This is a simple, static HTML and CSS website that serves as a "DinoDex." It fea
 7.  Ankylosaurus
 8.  Pterodactyl
 9.  Diplodocus
+10. Carnotaurus
+11. Microraptor
 
 ---
 
